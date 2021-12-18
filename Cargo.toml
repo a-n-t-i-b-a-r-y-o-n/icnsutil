@@ -1,0 +1,8 @@
+[package]
+name = "icnsutil"
+version = "0.0.1"
+edition = "2018"
+authors = ["g-r-a-v-i-t-y-w-a-v-e"]
+
+[dependencies]
+icns = "0.3.1"
